@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding ESP8266 Non-OS SDK Development",
+      "date": "2024-03-15",
+      "readTime": "8 min read",
+      "category": "Embedded Systems",
+      "excerpt": "Deep dive into developing with ESP8266 Non-OS SDK, covering key concepts, best practices, and common pitfalls.",
+      "image": "https://images.unsplash.com/photo-1553406830-ef2513450d76?auto=format&fit=crop&q=80&w=800&h=400"
+    },
+    {
+      "id": 2,
+      "title": "IoT Protocol Selection Guide",
+      "date": "2024-03-10",
+      "readTime": "6 min read",
+      "category": "IoT",
+      "excerpt": "A comprehensive guide to choosing the right protocol for your IoT project, comparing MQTT, CoAP, and HTTP.",
+      "image": "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&q=80&w=800&h=400"
+    },
+    {
+      "id": 3,
+      "title": "Power Optimization Techniques for Embedded Systems",
+      "date": "2024-03-05",
+      "readTime": "10 min read",
+      "category": "Power Management",
+      "excerpt": "Learn effective strategies for optimizing power consumption in battery-powered embedded devices.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800&h=400"
+    }
+  ]
+  
